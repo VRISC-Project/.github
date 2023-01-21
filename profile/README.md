@@ -11,3 +11,7 @@ vrisc将指令集极大地简化，使学习者不再困于复杂的指令集以
 地深入计算机原理的本质。
 
 希望vrisc项目能帮助更多的学习者。
+
+## English edition
+
+See [README.en.md](README.en.md)
